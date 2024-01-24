@@ -2,6 +2,7 @@
 # CHAMBELLON_Lab2
 
 La structure finale du système est représentée dans le schéma ci-dessous :
+
 ![image](https://github.com/ESN2024/CHAMBELLON_Lab2/assets/156073044/2e4748b2-1a8b-4c25-b6c1-977bf86154b6)
  
 On utilise une seule PIO de 12 bits au lieu de trois de 4 bits. 
@@ -17,5 +18,6 @@ Quand le compteur atteint 0000 1010 0000 (160 en décimal), j'ajoute 96 pour inc
 Ce processus est implémenté dans la routine d'interruption timer_irq, qui se déclenche toutes les secondes.
 
 Voici la démonstration du fonctionnement du compteur dans la vidéo ci-dessous:
-https://github.com/ESN2024/CHAMBELLON_Lab2/assets/156073044/528eb06d-6fd8-4c03-bef3-094c507d0af3
+
+https://github.com/ESN2024/CHAMBELLON_Lab2/assets/156073044/53c1d5a5-a11e-4c13-abd0-dbd37e840a4e
 
