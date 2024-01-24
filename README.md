@@ -21,3 +21,4 @@ Voici la démonstration du fonctionnement du compteur dans la vidéo ci-dessous:
 
 https://github.com/ESN2024/CHAMBELLON_Lab2/assets/156073044/53c1d5a5-a11e-4c13-abd0-dbd37e840a4e
 
+Ce Lab 2 nous a permis de découvrir comment implémenter un timer et configurer les afficheurs 7 segments de la carte.
